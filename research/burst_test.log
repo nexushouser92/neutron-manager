@@ -1,0 +1,4 @@
+nothing sent                 tuning readings:   0  span -
+version request (115)        tuning readings:   0  span -
+settings request (5)         tuning readings:  50  span 0.00-1.96s
+settings request (5) again   tuning readings:  50  span 0.00-1.96s

@@ -1,0 +1,6 @@
+escuchando
+listened 40 s | sysex by opcode: {116: 1, 6: 1, 114: 50} | short messages: 0
+  0.00s sysex f0 00 20 32 28 00 74 01 32 2e 30 2e 32 f7
+  0.00s sysex f0 00 20 32 28 00 06 01 09 02 00 00 02 31 08 58 46 00 00 00 00 00 00 00 7f 2f 00 00 00 00 00 01 f7
+first/last tuning: f0 00 20 32 28 00 72 01 5e 06 00 00 00 00 00 01 62 0b 00 00 00 00 01 01 f7 | f0 00 20 32 28 00 72 01 61 38 01 00 00 00 00 00 2f 5d 00 00 00 00 01 00 f7
+short (status, data1): count {}

@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.claude/
+.pytest_cache/
+build/
+dist/
+*.spec
+# firmware files and backups are not redistributed from this repo
+*.bin
+*.hex
+*.dfu
+*.zip
+manual.txt
+README_MAC_LINUX.txt
