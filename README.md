@@ -31,8 +31,6 @@ Get **Neutron Manager.exe** from the [latest release](https://github.com/nexusho
 * **r15f guide**: every button combination of the alternative firmware, since r15f has no USB or SysEx.
 * Save and open settings as JSON. Spanish and English, from the Windows language.
 
-![Firmware tab](docs/firmware.png)
-
 ## Documents
 
 | File | What it contains |
